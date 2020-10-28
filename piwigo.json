@@ -2,7 +2,7 @@
   "Piwigo": {
     "description": "Piwigo is photo gallery software for the web, built by an active community of users and developers",
     "website": "piwigo.org",
-    icon": "https://piwigo.org/plugins/piwigo-piwigodotorg/images/piwigo.org.svg",
+    "icon": "https://piwigo.org/plugins/piwigo-piwigodotorg/images/piwigo.org.svg",
     "containers": {
       {
         "image": "linuxserver/piwigo",
